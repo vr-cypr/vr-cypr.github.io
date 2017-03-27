@@ -1564,6 +1564,10 @@ a {
 
     -webkit-transform: translate(-50%, -50%);
             transform: translate(-50%, -50%);
+    max-width: 60px;
+    width: 100%;
+    height: 60px;
+    border-radius: 100%;
 }
 
 .cyrcl-images {
