@@ -672,10 +672,12 @@ button {
   .speaker .more a:before {
     left: 0px;
   }
+/*
   .speaker .speaker-item .wrap-avatar {
     max-width: 200px;
     height: 200px;
   }
+*/
   .speaker .cyrcl-images {
     max-width: 220px;
     height: 220px;
